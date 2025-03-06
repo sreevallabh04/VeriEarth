@@ -2,6 +2,8 @@
 
 VeriEarth is a web application that visualizes real-time environmental data on a 3D globe. It uses satellite imagery and AI to monitor pollution events and make environmental data accessible, transparent, and actionable.
 
+The name "VeriEarth" is a combination of "Verify" and "Earth," reflecting the project's mission to provide verified and reliable environmental data about our planet.
+
 ## 🚀 Installation
 
 | Step | Command | Description |

@@ -5,5 +5,16 @@
     "globe.gl": "^2.41.1",
     "react-chartjs-2": "^5.3.0",
     "react-router-dom": "^7.2.0"
-  }
+  },
+  "name": "veriearth",
+  "version": "1.0.0",
+  "description": "VeriEarth is a web application that visualizes real-time environmental data on a 3D globe. It uses satellite imagery and AI to monitor pollution events and make environmental data accessible, transparent, and actionable.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
